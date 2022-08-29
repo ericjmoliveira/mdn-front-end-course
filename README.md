@@ -1,4 +1,4 @@
-# mdn-front-end-course
+# MDN front-end course assessments
 
 MDN Front-end developer course assessments made.
 
